@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 So this is the same file on master branch and now we will attempt to merge them
+=======
+So this is the change to file 4 in the b3 branch
+>>>>>>> b3
