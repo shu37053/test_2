@@ -1,0 +1,1 @@
+So this is the same file on master branch and now we will attempt to merge them
